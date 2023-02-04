@@ -1,1 +1,8 @@
+# This folder is for results of spell script executions - those exports MUST NOT be part of the repo
 /exports/*
+
+# This folder is for temporary files created during the execution of a spell script - they MUST NOT be part of the repo
+/tmp/*
+
+# Execution logs
+/logs/*
